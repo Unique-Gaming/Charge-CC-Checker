@@ -1,21 +1,31 @@
-# ✨ Charge CC Checker By Unique Gaming
+# Charge CC Checker By Unique Gaming
 
-**This is Made By Me**
+This Web Based Tool For Checking if CC is Charged or Not
 
-# Where To Host
+### ✨ Features :
 
-Note: You Can Host This Anywhere
+• Checks Charged CC
 
+• Shows Charged , Declined CC
 
-# Note
-• **This is Just For Educational Purpose.**
-• **Don't Sell This Script, This is 100% Free That is Made By Me**
+## 💽 Where To Host :
 
-# Join/Contact/Help
+You can use any hosting.
 
-**Don't Forget To Join My Telegram Channel**
-**Link:** https://t.me/decoapi
+## 🚸 Warnings :
 
-**2. Channel Link:** https://t.me/UNQCLOUD
+- This is Just For Educational Purpose.
 
-   **©️ Unique Gaming 2023**
+- DO NOT Sell this Script, This is 100% Free Made By Me
+
+## 🤗 Contact Me Or Join My Telegram Channel:
+
+join My Telegram Channel For More Amazing Checkers 
+
+• Join https://t.me/decoapi
+
+---
+
+<h4 align='center'>© 2023 UNIQUE GAMING</h4>
+
+<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
