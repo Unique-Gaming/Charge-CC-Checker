@@ -18,4 +18,4 @@ Note: You Can Host This Anywhere
 
 **2. Channel Link:** https://t.me/UNQCLOUD
 
-    **©️ Unique Gaming 2023**
+   **©️ Unique Gaming 2023**
